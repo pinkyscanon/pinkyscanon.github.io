@@ -1,6 +1,8 @@
 ---
-layout: home
-title: Home
+layout: post
+title: "home"
+author: "l33tus"
+permalink: /
 ---
 
 *what are we going to do tonight brain?*
